@@ -1,0 +1,9 @@
+Django==1.6
+bcrypt==1.0.2
+django-sekizai==0.7
+psycopg2==2.5.1
+py-bcrypt==0.4
+python-memcached==1.53
+rauth==0.6.2
+requests==1.2.3
+wsgiref==0.1.2
